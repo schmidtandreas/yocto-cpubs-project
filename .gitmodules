@@ -1,0 +1,12 @@
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://github.com/yoctoproject/poky.git
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "sources/meta-bbb-bsp"]
+	path = sources/meta-bbb-bsp
+	url = https://github.com/schmidtandreas/meta-bbb-bsp.git
+[submodule "sources/meta-cpubs"]
+	path = sources/meta-cpubs
+	url = https://github.com/schmidtandreas/meta-cpubs.git

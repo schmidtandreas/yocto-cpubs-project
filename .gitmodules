@@ -7,6 +7,3 @@
 [submodule "sources/meta-bbb-bsp"]
 	path = sources/meta-bbb-bsp
 	url = https://github.com/schmidtandreas/meta-bbb-bsp.git
-[submodule "sources/meta-cpubs"]
-	path = sources/meta-cpubs
-	url = https://github.com/schmidtandreas/meta-cpubs.git

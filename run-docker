@@ -1,0 +1,4 @@
+#!/bin/bash
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+docker run --rm -it -v "${SCRIPT_DIR}:${SCRIPT_DIR}" -u 1000:1000 -w "${SCRIPT_DIR}" yocto-build-image:latest
